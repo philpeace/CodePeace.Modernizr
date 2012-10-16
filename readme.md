@@ -1,8 +1,7 @@
-﻿CodePeace.Modernizr - Orchard Module
-====================================
+﻿#CodePeace.Modernizr - Orchard Module
 An Orchard CMS module for including the Modernizr.js library, much the same way as the jQuery ones does.
 
-License
+## License
 =======
 [Licence.md](https://github.com/philpeace/CodePeace.Modernizr/blob/master/License.md)
 
