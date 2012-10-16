@@ -4,4 +4,4 @@ An Orchard CMS module for including the Modernizr.js library, much the same way 
 
 License
 =======
-licence.md
+[Licence.md](https://github.com/philpeace/CodePeace.Modernizr/blob/master/License.md)
