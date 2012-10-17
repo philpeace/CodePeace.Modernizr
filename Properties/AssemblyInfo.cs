@@ -6,7 +6,7 @@ using System.Security;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CodePeace.Modernizr")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An Orchard CMS module for including the Modernizr.js library, much the same way as the jQuery ones does.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyProduct("CodePeace.Modernizr")]
 [assembly: AssemblyCopyright("Copyright © CodePeace 2012")]

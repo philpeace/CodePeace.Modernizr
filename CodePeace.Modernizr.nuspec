@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CodePeace.Modernizr</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Phil Peace</authors>
+    <owners>Phil Peace</owners>
+    <licenseUrl>https://github.com/philpeace/CodePeace.Modernizr/blob/master/License.md</licenseUrl>
+    <projectUrl>https://github.com/philpeace/CodePeace.Modernizr</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>Orchard Module</tags>
+  </metadata>
+</package>
