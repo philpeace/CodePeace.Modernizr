@@ -8,6 +8,6 @@ An Orchard CMS module for including the Modernizr.js library, much the same way 
 ## Usage
 Once you have added and enabled the Module add
 
-	Scripts.Require("Modenizr").AtHead();
+	Script.Require("Modernizr").AtHead();
 
 to your Layout.cshtml
